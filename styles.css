@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+.container{
+	margin: 0px auto;
+	width:400px;
+	padding:32px;
+	background:#eee;
+	display:flex;
+	flex-direction:column;
+	border-radius:48px
+}
+img{
+	 height: 400px;
+	 object-fit:contain;
+	 margin:0 auto;
+	
+}
+.decription{
+	width:200px
+}
